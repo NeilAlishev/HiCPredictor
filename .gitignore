@@ -2,6 +2,7 @@
 */.ipynb_checkpoints/*
 *.mcool
 chromFa/
+training_data/
 transformed_hic/
 *.fa
 .DS_Store
