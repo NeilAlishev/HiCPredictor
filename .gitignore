@@ -4,6 +4,7 @@
 chromFa/
 training_data/
 transformed_hic/
+basenji/
 *.fa
 .DS_Store
 *.h5
