@@ -8,3 +8,5 @@ basenji/
 *.fa
 .DS_Store
 *.h5
+!model_80_epochs.h5
+!dna_seq_example.fa
